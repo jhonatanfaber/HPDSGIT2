@@ -1,1 +1,1 @@
-este es otro archivo
+modifcar file2
